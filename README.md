@@ -11,6 +11,7 @@ Over the last 2 weeks, I was part of a sprint session for building a website for
   - CSS
     - Bootstrap
   - ASP.Net MVC
+    -Entity Framework
   
 Most of the webpage formatting and structure elements were build using HTML:
 
