@@ -5,12 +5,12 @@ This is an ASP.Net MVC application for a theatre company.
 Over the last 2 weeks, I was part of a sprint session for building a website for a Theatre Production Company. Them team that I was assigned yo was responsible for the part of the website sety aside for the production information, including cast member information storage. 
 
 ## Programming Languages used:
-  -HTML
-  -C#
-    -Razor Syntax
-  -CSS
-    -Bootstrap
-  -ASP.Net MVC
+  *-HTML
+  *-C#
+    *-Razor Syntax
+  *-CSS
+    *-Bootstrap
+  *-ASP.Net MVC
   
 Most of the webpage formatting and structure elements were build using HTML:
 
